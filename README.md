@@ -2,7 +2,7 @@
 
 <img src="./book_cover.jpg" height="256px" align="right">
 
-『[파이썬으로 웹 크롤러 만들기(3판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B3923265731)』(한빛미디어, 2025) 예제 코드 저장소입니다.  
+『[파이썬으로 웹 크롤러 만들기(3판)]』(한빛미디어, 2025) 예제 코드 저장소입니다.  
 이 저장소의 코드는 원서의 저자가 제공하는 코드 중 실행 오류가 발생하거나 오탈자가 있는 부분을 수정한 것입니다.  
 
 원서의 저자가 제공하는 [코드](https://github.com/REMitchell/python-scraping)는 여기에서 확인할 수 있습니다.  
